@@ -1,2 +1,2 @@
 # socket
-to build up connection between two computors by python
+to build up connection between serveral computers by python
